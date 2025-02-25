@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #aaa1a1;
+    background-color: #a1a1a1;
     font-family: Arial, sans-serif;
   }
   .loading-container {
